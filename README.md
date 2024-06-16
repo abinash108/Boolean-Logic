@@ -18,3 +18,7 @@ By working on this project, you will gain:
 - Practical experience in building boolean and arithmetic circuits using HDL.
 - Ability to simulate circuits to verify their functionality.
 - Insights into logic synthesis and its role in hardware design.
+
+  # Workflow
+  Icarus  for verilog compilation and simulation
+  gtk wave viewer
